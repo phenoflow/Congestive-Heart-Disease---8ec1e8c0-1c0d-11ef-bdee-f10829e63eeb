@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/congestive-heart-disease-fraction---primary.py
+inputModule3:
+  class: File
+  path: python/congestive-heart-disease-cardiac---primary.py
+inputModule4:
+  class: File
+  path: python/right-congestive-heart-disease---primary.py
+inputModule5:
+  class: File
+  path: python/congestive-heart-disease-failure---primary.py
+inputModule6:
+  class: File
+  path: python/congestive-heart-disease---primary.py
+inputModule7:
+  class: File
+  path: python/congestive-heart-disease-function---primary.py
+inputModule8:
+  class: File
+  path: python/congestive-heart-disease-impaired---primary.py
+inputModule9:
+  class: File
+  path: python/acute-congestive-heart-disease---primary.py
+inputModule10:
+  class: File
+  path: python/systolic-congestive-heart-disease---primary.py
+inputModule11:
+  class: File
+  path: python/diastolic-congestive-heart-disease---primary.py
+inputModule12:
+  class: File
+  path: python/congestive-heart-disease-complication---primary.py
+inputModule13:
+  class: File
+  path: python/ventricular-congestive-heart-disease---primary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
